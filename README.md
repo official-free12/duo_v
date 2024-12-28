@@ -1,0 +1,6 @@
+# 多语言红酒投资理财源码/海外投资理财源码/前端vue编译后+后端PHP
+
+多语言红酒投资理财源码/海外投资理财源码/前端vue编译后+后端PHP<br>首页地址：example.com/example.com<br>用户名：123456密码：123456<br>管理地址：example.com/admin<br>用户名：admin密码：123456<br>语言：中文简体、英文<br>充提都是usdt，详细信息看截图或演示<br>搭建环境：example.com、宝塔面板、Nginx、example.com、example.com，运行目录不用选择，伪静态选择laravel5，建议开启SSL<br>前端是vue编译后，没有纯源码，后端是larvael5框架<br>--------------------------------------------------------------------------------------------------<br>亲爱的各位买家朋友；<br>example.com，使用方必须在国家相关法律法规范围内并经过国家相关部门的授权许可，禁止用于一切非法行为。<br>example.com、实验、研究为目的，禁止用于一切商业运营，本团队不承担使用者在使用过程中的任何违法行为负责。<br>--------------------------------------------------------------------------------------------------<br>注：<br>1、请勿以无法对接或者其他相关问题退款，本店所有技术服务均为收费费用；<br>2、商品设置的安装调试只是单网站运行环境配置，不包含其它任何相关配置；<br>3、如源码存在问题可以购买的技术服务；本店承接数字资产相关服务；<br>4、网站相关接口均为收费配置；<br>5、请不要以任何这样那样的问题说程序无法运行；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/7wSYX" style="color: red;">https://mega-file.org/7wSYX</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
